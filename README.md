@@ -10,7 +10,7 @@ Available on both CRAN (use install.packages("gganimate") and GitHub (install_gi
 GGAnimate has a vignette that includes function definitions, examples of code and the graph outcomes. It also explains how to find your animation, and provides options for additional rendering formats. 
 
 ### Applications
-There are many blogs that describe the usefulness of gganimate including posts from solarchemist, Medium, R-bloggers, and others that highlight the usefulness of the package.
+There are many blogs that describe the usefulness of gganimate including posts from solarchemist, Medium, R-bloggers, and others that highlight the usefulness of the package. I have seen used to show the progression of COVID cases, the relationship between GDP and life expectancy, and NYC housing trends overtime.
 
 ### Review
 
